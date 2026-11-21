@@ -1,10 +1,11 @@
 {
+  "iconName": "Brain",
   "schemaVersion": 1,
   "version": "1.0.0",
   "repository": "claude.api",
   "providerType": "api",
   "id": "api_claude",
-  "title": "Claude API",
+  "title": "Claude",
   "protocol": "openai",
   "baseUrl": "https://api.anthropic.com/v1",
   "setupInstructions": "Use a workspace-scoped Claude API key and enter a model available in that workspace."
